@@ -1,6 +1,6 @@
-MLflow on AWS
+##MLflow on AWS
 
-MLflow on AWS Setup:
+##MLflow on AWS Setup:
 
 
 Login to AWS console.
@@ -42,4 +42,4 @@ mlflow server -h 0.0.0.0 --default-artifact-root s3://mlops-buc01
 
 
 #set uri in your local terminal and in your code 
-export MLFLOW_TRACKING_URI=http://ec2-3-88-12-55.compute-1.amazonaws.com:5000/
+export MLFLOW_TRACKING_URI= http://ec2-52-7-169-228.compute-1.amazonaws.com:5000/
