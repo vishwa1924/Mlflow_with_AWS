@@ -3,11 +3,15 @@
 ##MLflow on AWS Setup:
 
 
-Login to AWS console.
-Create IAM user with AdministratorAccess
-Export the credentials in your AWS CLI by running "aws configure"
-Create a s3 bucket
-Create EC2 machine (Ubuntu) & add Security groups 5000 port
+1)Login to AWS console.
+
+2)Create IAM user with AdministratorAccess
+
+3)Export the credentials in your AWS CLI by running "aws configure"
+
+4)Create a s3 bucket
+
+5)Create EC2 machine (Ubuntu) & add Security groups 5000 port
 
 
 sudo apt update
