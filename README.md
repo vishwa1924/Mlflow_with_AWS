@@ -1,6 +1,6 @@
-##MLflow on AWS
+### MLflow on AWS
 
-##MLflow on AWS Setup:
+## MLflow on AWS Setup:
 
 
 1)Login to AWS console.
@@ -35,7 +35,7 @@ pipenv install boto3
 pipenv shell
 
 
-## Then set aws credentials
+# Then set aws credentials
 aws configure
 
 
